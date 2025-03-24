@@ -1,0 +1,41 @@
+body{
+    border: 3px solid;
+    display: flow-root;
+    /* background-image: url(Nyc3.jpg); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    text-shadow:  5px 5px 5px hsl(226, 70%, 20%), -5px -5px 5px hsl(130, 78%, 40%);
+
+}
+a:link{
+    color: rgb(18, 18, 206);
+}
+a:hover{
+    color: aqua;
+    font-size: 1.2em;
+
+}
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(167, 163, 163);
+    box-shadow: 3px 3px 6px, -3px -3px 6px;
+}
+#img1{
+    float: left;
+    margin-right: 10px;
+}
+#img2{
+    float: right;
+    margin-left: 10px;
+}
+div{
+    border: 2px solid;
+    height: 75px;
+    overflow: auto;
+}

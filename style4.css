@@ -1,0 +1,51 @@
+.color{
+    background-color: rgb(25, 24, 70);
+    
+}
+.ok{
+    background-image: url(cloud-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.start{
+    font-family:'Times New Roman';
+    font-size: 40px;
+    color: rgb(48, 48, 100);
+    font-weight: bolder;
+    
+}
+.td{
+    text-decoration: underline;
+    
+    
+}
+.my-4{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.lead{
+    font-weight: bold;
+    font-size: smaller;
+}
+.div1{
+    height: 100%;
+    width: 200px;
+    background-color: antiquewhite;
+    
+   
+}
+.card-text1{
+    font-size: small;
+}
+
+.timeyou{
+    color: rgb(81, 81, 143);
+    font-family:  Tahoma;
+}
+.techhub{
+    height: 150%;
+    width: 150%;
+}
+.cad{
+    float: left;
+}
